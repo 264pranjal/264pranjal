@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% height = '10%'" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%, height = 10%" />
 </br>
 <h1 align="center">I'm Pranjal Agrawal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
