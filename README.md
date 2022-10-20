@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pranjal Agrawal</h1>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</br>
+<h1 align="center">I'm Pranjal Agrawal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=264pranjal&label=Profile%20views&color=0e75b6&style=flat" alt="264pranjal" /> </p>
