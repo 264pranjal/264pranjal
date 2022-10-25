@@ -36,7 +36,7 @@
 <p><a href="https://www.buymeacoffee.com/26pranjal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="26pranjal" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=264pranjal&show_icons=true&locale=en&layout=compact" alt="264pranjal" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=264pranjal&show_icons=true&locale=en" alt="264pranjal" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=264pranjal&show_icons=true&locale=en" alt="264pranjal" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=264pranjal&" alt="264pranjal" /></p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
