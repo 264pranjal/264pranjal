@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/264pranjal](https://github.com/264pranjal)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/264pranjal)
 
 - 💬 Ask me about **anything tech related, I am happy to help.**
 
 - 📫 How to reach me **pranjalagr310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L-JWIWXQteT36UaTiYhCMjtC6_BrFV70/view?usp=sharing](https://drive.google.com/file/d/1L-JWIWXQteT36UaTiYhCMjtC6_BrFV70/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L-JWIWXQteT36UaTiYhCMjtC6_BrFV70/view?usp=sharing)
 
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 
