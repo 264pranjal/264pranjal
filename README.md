@@ -97,7 +97,7 @@ Currently working as a **Senior Associate Consultant at Infosys**, where I also 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
   </a>
   <a href="https://swagger.io/">
-    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="45" height="45" alt="Swagger" />
+    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/628dcd90-d1a4-4d1c-8593-93dac4031a12" alt="Swagger" />
   </a>
   <a href="https://www.postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
