@@ -1,45 +1,208 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" style="height:40%" />
-</Hr>
 <h1 align="center">Hi 👋, I'm Pranjal Agrawal</h1>
-<h3 align="center">I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 or beginner level Devops Engineer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=264pranjal&label=Profile%20views&color=0e75b6&style=flat" alt="264pranjal" /> </p>
+<h3 align="center">
+Frontend Engineer | React.js | TypeScript | JavaScript | AI Integration
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=264pranjal" alt="264pranjal" /></a> </p>
-
-- 🔭 I’m currently working on **Nodejs, Express, React, Mongodb, Javascript, etc.**
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/264pranjal)
-
-- 💬 Ask me about **anything tech related, I am happy to help.**
-
-- 📫 How to reach me **pranjalagr310@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1L-JWIWXQteT36UaTiYhCMjtC6_BrFV70/view?usp=sharing)
-
-- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@pranjal25419487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pranjal25419487" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/26-pranjal-agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="26-pranjal-agrawal" height="30" width="40" /></a>
-<a href="https://fb.com/26pranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="26pranjal" height="30" width="40" /></a>
-<a href="https://instagram.com/fun_with_pranjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fun_with_pranjal" height="30" width="40" /></a>
+<p align="center">
+  Building scalable, interactive and user-focused web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=264pranjal&show_icons=true&locale=en&layout=compact" alt="264pranjal" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=264pranjal&show_icons=true&locale=en" alt="264pranjal" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=264pranjal&" alt="264pranjal" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/26pranjal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="26pranjal" /></a></p><br><br>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+  <a href="https://www.linkedin.com/in/26-pranjal-agrawal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/264pranjal">
+    <img src="https://img.shields.io/badge/GitHub-264pranjal-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:pranjalagr310@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Frontend Engineer with 5+ years of experience** building enterprise web applications and complex, data-driven user interfaces.
+
+My primary expertise is in **React.js, TypeScript and JavaScript**, with experience across AI-powered applications, dynamic forms, complex data tables, REST API integrations, reusable component systems, frontend performance and accessibility.
+
+Currently working as a **Senior Associate Consultant at Infosys**, where I also serve as a **UI Lead** on a Ford engagement. I work with client-side teams on requirements, UI implementation, estimation, task distribution and feature delivery while coordinating a 5–6 member UI team.
+
+### What I enjoy working on
+
+- ⚛️ React.js & TypeScript applications
+- 🤖 AI / GenAI-powered frontend experiences
+- 📊 Complex data-driven interfaces and tables
+- 🔗 REST API integration and API-driven UI
+- 🧩 Reusable and scalable UI components
+- 🎨 Figma → production-ready interfaces
+- ⚡ Frontend performance optimization
+- ♿ Accessible and responsive web applications
+- 🧠 Complex UI workflows and interactions
+- 🚀 Building products from idea to implementation
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p align="left">
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" height="45" alt="Next.js" />
+  </a>
+</p>
+
+### State Management & UI
+
+<p align="left">
+  <a href="https://redux.js.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma" />
+  </a>
+</p>
+
+### APIs, Cloud & Tools
+
+<p align="left">
+  <a href="https://azure.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
+  </a>
+  <a href="https://swagger.io/">
+    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" width="45" height="45" alt="Swagger" />
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Muhurat.in
+
+**Interactive Event Experience Platform — Currently in Development**
+
+Co-building Muhurat.in with my husband, **Nikhil Jain**, as an independent product focused on personalized and interactive digital experiences.
+
+- 🎮 Building interactive, game-based websites for personal events
+- 🎂 Creating personalized birthday experiences
+- 🎨 Combining animations, storytelling, dynamic content and creative UI
+- 📸 Building interactive memory experiences around photos and personal moments
+- ⚛️ Developing the frontend using React.js and JavaScript
+- 🔗 Integrating APIs and cloud services
+
+**Tech:** React.js · JavaScript · AWS · AI · REST APIs
+
+---
+
+### 📅 Booking Platform
+
+A production-style booking application built to explore scalable frontend architecture and real-world application workflows.
+
+- React.js-based frontend
+- Redux state management
+- REST API integration
+- Authentication workflows
+- Responsive UI
+- Search and booking flows
+- Reusable component architecture
+
+**Tech:** React.js · Redux · JavaScript · Tailwind CSS · REST APIs
+
+---
+
+### 🎓 Learning Platform
+
+A full-stack learning application inspired by modern language-learning platforms.
+
+- Interactive learning experiences
+- Responsive React interfaces
+- Reusable UI components
+- Authentication
+- Database integration
+- Subscription/payment workflows
+
+**Tech:** Next.js · React.js · Tailwind CSS · PostgreSQL · Drizzle ORM · Stripe
+
+---
+
+## 💼 Professional Experience
+
+### Infosys
+**Senior Associate Consultant | Frontend Engineer**
+
+Currently working on enterprise applications with a strong focus on frontend engineering, AI integration and complex UI workflows.
+
+**Current focus:**
+
+- React.js + TypeScript
+- AI prediction integration
+- Complex data tables
+- Dynamic forms
+- REST API integration
+- Reusable UI components
+- UI leadership
+- Client collaboration
+
+### Accenture
+**Frontend Engineer / Data Architecture Analyst**
+
+Worked across enterprise applications involving React.js, GenAI-powered workflows, Azure, data migration, advanced UI interactions and frontend performance optimization.
+
+> Detailed project implementations may be restricted due to client confidentiality.
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=264pranjal&show_icons=true&hide_border=true&rank_icon=github" alt="Pranjal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=264pranjal&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Frontend Engineering · React.js · TypeScript · AI-powered Applications · Enterprise UI**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/26-pranjal-agrawal/">LinkedIn</a> ·
+  <a href="https://github.com/264pranjal">GitHub</a> ·
+  <a href="mailto:pranjalagr310@gmail.com">Email</a>
 </p>
