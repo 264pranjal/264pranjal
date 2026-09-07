@@ -10,13 +10,13 @@ Frontend Engineer | React.js | TypeScript | JavaScript | AI Integration
 
 <p align="center">
   <a href="https://www.linkedin.com/in/26-pranjal-agrawal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/264pranjal">
-    <img src="https://img.shields.io/badge/GitHub-264pranjal-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-264pranjal-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:pranjalagr310@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ Currently working as a **Senior Associate Consultant at Infosys**, where I also 
 
 <p align="left">
   <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React.js" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
@@ -91,13 +91,13 @@ Currently working as a **Senior Associate Consultant at Infosys**, where I also 
 
 <p align="left">
   <a href="https://azure.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Microsoft Azure" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
   </a>
   <a href="https://swagger.io/">
-    <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/628dcd90-d1a4-4d1c-8593-93dac4031a12" alt="Swagger" />
+    <img src="https://github.com/user-attachments/assets/628dcd90-d1a4-4d1c-8593-93dac4031a12" width="45" height="45" alt="Swagger" />
   </a>
   <a href="https://www.postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
@@ -118,7 +118,7 @@ Co-building Muhurat.in with my husband, **Nikhil Jain**, as an independent produ
 - 🎂 Creating personalized birthday experiences
 - 🎨 Combining animations, storytelling, dynamic content and creative UI
 - 📸 Building interactive memory experiences around photos and personal moments
-- ⚛️ Developing the frontend using React.js and JavaScript
+- ⚛️ Developing frontend experiences using React.js and JavaScript
 - 🔗 Integrating APIs and cloud services
 
 **Tech:** React.js · JavaScript · AWS · AI · REST APIs
@@ -129,13 +129,13 @@ Co-building Muhurat.in with my husband, **Nikhil Jain**, as an independent produ
 
 A production-style booking application built to explore scalable frontend architecture and real-world application workflows.
 
-- React.js-based frontend
-- Redux state management
-- REST API integration
-- Authentication workflows
-- Responsive UI
-- Search and booking flows
-- Reusable component architecture
+- ⚛️ React.js-based frontend
+- 🔄 Redux state management
+- 🔗 REST API integration
+- 🔐 Authentication workflows
+- 📱 Responsive UI
+- 🔎 Search and booking flows
+- 🧩 Reusable component architecture
 
 **Tech:** React.js · Redux · JavaScript · Tailwind CSS · REST APIs
 
@@ -145,12 +145,12 @@ A production-style booking application built to explore scalable frontend archit
 
 A full-stack learning application inspired by modern language-learning platforms.
 
-- Interactive learning experiences
-- Responsive React interfaces
-- Reusable UI components
-- Authentication
-- Database integration
-- Subscription/payment workflows
+- 🎯 Interactive learning experiences
+- ⚛️ Responsive React interfaces
+- 🧩 Reusable UI components
+- 🔐 Authentication
+- 🗄️ Database integration
+- 💳 Subscription and payment workflows
 
 **Tech:** Next.js · React.js · Tailwind CSS · PostgreSQL · Drizzle ORM · Stripe
 
@@ -159,22 +159,24 @@ A full-stack learning application inspired by modern language-learning platforms
 ## 💼 Professional Experience
 
 ### Infosys
+
 **Senior Associate Consultant | Frontend Engineer**
 
 Currently working on enterprise applications with a strong focus on frontend engineering, AI integration and complex UI workflows.
 
 **Current focus:**
 
-- React.js + TypeScript
-- AI prediction integration
-- Complex data tables
-- Dynamic forms
-- REST API integration
-- Reusable UI components
-- UI leadership
-- Client collaboration
+- ⚛️ React.js + TypeScript
+- 🤖 AI prediction integration
+- 📊 Complex data tables
+- 📝 Dynamic forms
+- 🔗 REST API integration
+- 🧩 Reusable UI components
+- 👥 UI leadership
+- 🤝 Client collaboration
 
 ### Accenture
+
 **Frontend Engineer / Data Architecture Analyst**
 
 Worked across enterprise applications involving React.js, GenAI-powered workflows, Azure, data migration, advanced UI interactions and frontend performance optimization.
@@ -183,16 +185,18 @@ Worked across enterprise applications involving React.js, GenAI-powered workflow
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=264pranjal&show_icons=true&hide_border=true&rank_icon=github" alt="Pranjal's GitHub Stats" />
-</p>
+I'm currently interested in building and learning more about:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=264pranjal&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
+- Advanced React.js patterns
+- TypeScript and scalable frontend architecture
+- AI-powered frontend applications
+- Performance optimization
+- Design systems and reusable components
+- Complex data-driven interfaces
+- Modern web application architecture
+- Interactive and creative web experiences
 
 ---
 
